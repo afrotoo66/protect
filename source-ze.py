@@ -532,7 +532,7 @@ CH - @T_Y_E_X*""",parse_mode="markdown",reply_to_message_id=message.message_id,r
 	elif message.text=="شوكت تجي":
 		bot.reply_to(message,"من تروح انت 😒😒✋،!!¿.")
 	elif message.text=="بوت":
-		bot.reply_to(message,"اسمي ↫ 𝐒𝐀𝐃𝐑𝐄 افتهم عادد")
+		bot.reply_to(message,"اسمي ↫ AFROTOO افهم بقا")
 		
 	elif "حسابي" in message.text or "حسابج" in message.text or "حساب"in message.text:
 		bot.reply_to(message,"شنو طار ؟؟")#جمع الاوامر 
