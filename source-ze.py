@@ -349,7 +349,7 @@ def start(message):
 			bot.reply_to(message,"تم الغاء تثبيت الرسالة!") 
 	if m == "المطور" or m == "مطور" or m == "المبرمج":
 		p3 = types.InlineKeyboardMarkup()
-		e4 = types.InlineKeyboardButton(text = "المطور .",url="t.me/IIUll_l")
+		e4 = types.InlineKeyboardButton(text = "المطور .",url="https://telegra.ph/file/04b2f1f1c808dc49db35b.jpg")
 		p3.add(e4)
 		h = """[مطور السورس .](t.me/IIUll_l)"""
 		bot.reply_to(message,h,parse_mode="markdown",reply_markup=p3,disable_web_page_preview=True)
